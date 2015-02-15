@@ -1,6 +1,6 @@
 public class NumberOfDiscIntersections {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new NumberOfDiscIntersections().solution(new int[]{1, 5, 2, 1, 4, 0}));
 	}
 

@@ -1,7 +1,7 @@
 public class Brackets {
 
-	public static void main(String[] args) {
-		System.out.printf("Solution: %d\n", new Brackets().solution("{[(ddd)(lll)]}()"));
+	public static void main(String[] args) { 
+		System.out.printf("Solution: %d\n", new Brackets().solution("{[(ddd)(lll)]}()")); 
 	}
 
 	public int solution(String S) {

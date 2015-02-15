@@ -1,12 +1,12 @@
 Compile - $javac File.java
-Start program - $java File - paziti da ima klasu imena fajla i public static void main(String[] args)
+Start program - $java File - make sure that class name and file name are same and that it has public static void main(String[] args)
 
 Output - System.out.printf("AAA %s %d %.2f\n", bla, 10, 2.33);
 Input
 File output
 File input
-Min, max int i long - Integer.MIN_VALUE, Integer.MAX_VALUE, Long.MIN_VALUE, Long.MAX_VALUE
-Provjera jel broj manji od trenutnog - int bla = Math.max(bla, other) int boo = Math.min(boo, other)
+Min, max int & long - Integer.MIN_VALUE, Integer.MAX_VALUE, Long.MIN_VALUE, Long.MAX_VALUE
+Check if number is largest / smallest - int bla = Math.max(bla, other) int boo = Math.min(boo, other)
 java.util.ArrayList
 java.util.Arrays
 java.util.Collections

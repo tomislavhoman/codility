@@ -1,6 +1,6 @@
 public class StoneWall {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new StoneWall().solution(new int[]{8,8,5,7,9,8,7,4,8}));
 	}
 

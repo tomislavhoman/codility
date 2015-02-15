@@ -1,6 +1,6 @@
 public class Nesting {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new Nesting().solution("(()(())())"));
 		//System.out.printf("Solution: %d\n", new Nesting().solution("())"));
 	}

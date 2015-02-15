@@ -20,7 +20,7 @@
 	Elements of input arrays can be modified.
 */
 public class PermMissingElem {
-	
+	 
 	public static void main(String[] args) {
 		int[] A = {2, 3, 1, 5};
 		System.out.printf("Solution = %d\n", solution(A));

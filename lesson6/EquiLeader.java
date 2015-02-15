@@ -1,6 +1,6 @@
 public class EquiLeader {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new EquiLeader().solution(new int[]{4,3,4,4,4,2}));
 	}
 

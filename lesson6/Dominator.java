@@ -1,6 +1,6 @@
 public class Dominator {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new Dominator().solution(new int[]{3,4,3,2,3,-1,3,3}));
 	}
 

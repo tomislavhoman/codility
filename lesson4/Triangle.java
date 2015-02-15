@@ -1,6 +1,6 @@
 public class Triangle {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new Triangle().solution(new int[]{10, 2, 5, 1, 8, 20}));
 	}
 

@@ -1,4 +1,5 @@
-public class MissingInteger {
+public class MissingInteger { 
+	
 	public static void main(String[] args) {
 		System.out.printf("Solution: %d\n", new MissingInteger().solution(new int[]{1, 3, 6, 4, 1, 2}));
 	}

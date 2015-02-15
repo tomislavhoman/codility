@@ -1,5 +1,5 @@
 
-public class CountDiv {
+public class CountDiv { 
 
 	public static void main(String[] args) {
 		System.out.printf("Solution: %d\n", new CountDiv().solution(6, 11, 2));

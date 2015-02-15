@@ -1,6 +1,6 @@
 public class Distinct {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new Distinct().solution(new int[]{2, 1, 1, 2, 3, 1}));
 	}
 

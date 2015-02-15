@@ -20,7 +20,7 @@
   expected worst-case space complexity is O(1).
   Copyright 2009–2015 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited.
 */
-public class FrogJmp {
+public class FrogJmp { 
 
 	public static void main(String[] args) {
   	System.out.printf("za 10, 85, 30 = %d", solution(10, 85, 30));

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class GenomicRangeQuery {
+public class GenomicRangeQuery { 
 	
 	public static void main(String[] args) {
 		System.out.printf("Solution: ");

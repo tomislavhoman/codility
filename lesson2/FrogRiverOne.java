@@ -1,4 +1,5 @@
 public class FrogRiverOne {
+	
 	public static void main(String[] args) {
 		System.out.printf("Solution: %d\n", new FrogRiverOne().solution(5, new int[]{1, 3, 1, 4, 2, 3, 5, 4}));
 	}

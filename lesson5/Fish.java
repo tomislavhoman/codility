@@ -1,6 +1,6 @@
 public class Fish {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		System.out.printf("Solution: %d\n", new Fish().solution(new int[]{4,3,2,1,5}, new int[]{0,1,0,0,0}));
 	}
 
