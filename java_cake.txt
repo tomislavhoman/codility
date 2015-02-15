@@ -1,0 +1,16 @@
+Compile - $javac File.java
+Pokretanje - $java File - paziti da ima klasu imena fajla i public static void main(String[] args)
+
+Output - System.out.printf("AAA %s %d %.2f\n", bla, 10, 2.33);
+Input
+File output
+File input
+Min, max int i long
+Provjera jel broj manji od trenutnog
+ArrayList
+HashMap
+Set
+Queue
+Stack
+PriorityQueue
+Sort
