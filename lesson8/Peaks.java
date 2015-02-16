@@ -8,7 +8,7 @@ public class Peaks {
 
     int ERR = 0;
     int n = A.length;
-    if (n == 0 || n == 1 || n == 2) {
+    if (n < 3) {
       return ERR;
     }
     
